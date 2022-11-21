@@ -1,0 +1,5 @@
+{
+  "appTitle": "Couter Aplicatie",
+  "pageTitle": "Counter Aplicatie - Acasa",
+  "counterText": "{counter, plural, zero{nu ai dat click inca.} one{ai dat  1 click.} other{Ai dat click de {counter} ori.}}"
+}

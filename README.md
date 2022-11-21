@@ -1,4 +1,5 @@
-# flutter_lang_app
+# flutter_intl
+# https://pub.dev/packages/flutter_intl/install
 
 A new Flutter project.
 

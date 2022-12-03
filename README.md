@@ -1,7 +1,7 @@
 # flutter_intl
 # https://pub.dev/packages/flutter_intl/install
 
-A new Flutter project.
+A new Flutter project..
 
 ## Getting Started
 
